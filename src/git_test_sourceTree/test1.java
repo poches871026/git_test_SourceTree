@@ -28,9 +28,6 @@ public class test1 {
 		System.out.println("aaaaaaaaaaaaaaaa");
 		System.out.println("33333333333333333");
 		
-		
-		
-		
 	}
 }
 
