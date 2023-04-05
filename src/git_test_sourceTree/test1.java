@@ -21,7 +21,6 @@ public class test1 {
 		System.out.println("33333333333333333");
 		
 		
-		System.out.println("test2222");		
 		System.out.println("test11111");		
 		
 		System.out.println("4444444444444444");
